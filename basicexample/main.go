@@ -3,7 +3,7 @@ package main
 import (
 	"log"
 
-	"github.com/atanda0x/postgresql-Go/src/models"
+	"github.com/atanda0x/postgresql-Go/basicexample/models"
 )
 
 func main() {
